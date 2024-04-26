@@ -46,9 +46,6 @@ streamlit run app.py
 
 Contributions are welcome! If you have suggestions for improvements or bug fixes, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
@@ -56,4 +53,4 @@ This project is licensed under the [MIT License](LICENSE).
 - Streamlit for the user-friendly interface.
 
 ## Author
-Snehal Vispute
+MOHAMMAD TOKEER QUARIASHI
